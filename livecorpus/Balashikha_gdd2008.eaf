@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2026-10-22T21:44:14+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///D:/Downloads/Balashikha_gdd2008.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Balashikha_gdd2008.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:66cef180-6bcf-420b-836d-4117c82ff835</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">30</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="978080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="980040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="981400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="982580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="982710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="984960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="985470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="988020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="989110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="990310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="990730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="994120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="994220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="994420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="994920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="996130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="997070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="1003900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="1004040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="1005980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="1006240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="1008640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="1008700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="1008960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="1009000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="1012360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="1012420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="1013610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="1013690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="1018460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="1018510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="1021480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="1021560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="1022010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="1022920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="1023160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="1023530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="1027780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="1028420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="1029090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="1030080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="1030530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="1030770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="1033940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="1034100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="1037540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="1038160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="1040990"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Arina" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="ddg2008f" TIER_ID="text@ddg2008f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>нн = на самом деле </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>чтение как / концепт / меня привлекает</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>но книги сама я достаточно давно не читала</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>#нзбр# мне кажется</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>не то что это постыдно но это было бы хорошо исправить</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>ээ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>потому что всё-таки</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>люди которые говорят мне не нравится чтение это вероятнее всего люди которые просто не нашли что именно нравится им читать потому что</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>мы так или иначе всё равно читаем каждый день</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>какую-то там статью в интернете новости</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>ээ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>что угодно текст на видео в тик токе ты все равно читаешь</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>ии просто возможно</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>ты прочитал одну научную книжку и подумал о боже какой ужас я не хочу это читать</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>но какое-нибудь фэнтази тебе бы может быть и понравилось</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>просто</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>ээ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>проблема / этой вещи то что тебе нужно достаточно много времени на это</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>потому что</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>ээ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>мне не хочется читать типа две страницы в день и всё</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>потому что тогда ты не сможешь сконцентрироваться #нрзб# на сюжете</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>иээ ты ничего не запомнишь и в чем вообще тогда был смысл</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Arina" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@aai2008f" TIER_ID="text@aai2008f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>как ты относишься к чтению книг?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Arina" LINGUISTIC_TYPE_REF="wordr"
+        PARENT_REF="text@ddg2008f" PARTICIPANT="@ddg2008f" TIER_ID="token@ddg2008f"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="word" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="wordr" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
